@@ -1,16 +1,21 @@
-# TodePond/Hest
-Welcome to the unofficial open source fan repo for Hest.
+> we are proud to state that this repo is the most open-sourced hest has ever been in the history of mankind
 
-### What's Hest?
-It's a concept for a visual programming system created by Ivan Reese. But beyond that, we're not really sure. That's why we're here!
+# todepond/hest
+welcome to the unofficial open source fan repo for hest.
 
-### What an "open source fan repo"?
-It's a place for fans of Hest to gather. We share our favourite Hest memes, theories about what's coming next for Hest, and mysterious third things. It's like a fansite or fanclub, but inside a repo.
+## whats hest?
+its a closed-source proprietrory (cant spell it) visual programming language created by ivan reese.
 
-### Why a fan repo for Hest?
-Ivan Reese refuses to open source Hest (whatever it is), so we have decided to organize an unofficial independent community. If he won't make Hest public, we will.
+## whats an "unofficial open source repo"?
+its a repo that open sources as much as it can from an otherwise closed source project
 
-### How can I help?
-This repo belongs to you and me — the fans! We get to decide what Hest means to us. If you know something about Hest, submit a pull request. If you make something about Hest, submit a pull request. That's our motto!
+## why an unofficial open source repo for hest?
+ivan reese refuses to open source hest, so we have decided to organise an unofficial open source repo. if he won't make hest open source, we will.
 
-> [Something] Hest? Pull request!
+## is this allowed? 
+probably, but as hest's license hasnt been open sourced anywhere, we cant know for sure.
+
+## how can i help?
+if you know have info or resources about hest, submit a pull request. if you make something about hest, submit a pull request.
+
+> [something] hest? pull request!
